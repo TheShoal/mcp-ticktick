@@ -31,4 +31,9 @@ Thumbs.db
 *.log
 
 # Others
-mcp.txt
+mcp.txt# Sensitive
+.env
+tokens.json
+*.egg-info/
+.venv/
+__pycache__/
